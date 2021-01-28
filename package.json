@@ -1,5 +1,5 @@
 {
-  "name": "payeer-api",
+  "name": "dkudrin@/payeer-api",
   "version": "0.0.4",
   "description": "Node.js wrapper for the Payeer.com",
   "main": "lib/index.js",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/beautyfree/node-payeer-api.git"
+    "url": "git+https://github.com/dkudrin/node-payeer-api.git"
   },
   "keywords": [
     "payeer",
@@ -19,12 +19,12 @@
     "pay",
     "api"
   ],
-  "author": "Alexey Elizarov <felex-ae@ya.ru> (http://github.com/beautyfree)",
+  "author": "dkudrin",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/beautyfree/node-payeer-api/issues"
+    "url": "https://github.com/dkudrin/node-payeer-api/issues"
   },
-  "homepage": "https://github.com/beautyfree/node-payeer-api#readme",
+  "homepage": "https://github.com/dkudrin/node-payeer-api#readme",
   "devDependencies": {
     "babel-cli": "^6.14.0",
     "babel-core": "^6.14.0",
